@@ -1,5 +1,5 @@
-# workshop-checkin
-Demo for the workshop on Version control and Collaborative Research Development.
+# Checkin
+A repository to practice collaboration.
 
 # How to use
 
