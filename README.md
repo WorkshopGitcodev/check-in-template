@@ -1,5 +1,5 @@
 # Checkin
-A repository to practice collaboration.
+A repository to introduce participants to collaboration. 
 
 # How to use
 
